@@ -1,4 +1,4 @@
 # casino
 casinoroyal
 sos
-10
+8
