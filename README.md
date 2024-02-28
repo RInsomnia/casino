@@ -1,4 +1,3 @@
 # casino
 casinoroyal
-sos
-4
+done
