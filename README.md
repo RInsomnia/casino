@@ -1,2 +1,2 @@
 # casino
-casinoroyal!
+casinoroyal
